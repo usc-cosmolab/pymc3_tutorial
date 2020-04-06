@@ -20,6 +20,9 @@ pip install pygtc
 
 # Sneak Peek
 
-<img src="images/data/data.png" height="250"/>
+<p float="left">
+  
+  <img src="images/data.png" height="300"/>
 
-<img src="images/data/triangle.png" height="250"/>
+  <img src="images/triangle.png" height="300"/>
+</p>
