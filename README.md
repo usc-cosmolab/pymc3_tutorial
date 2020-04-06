@@ -18,3 +18,8 @@ and/or
 pip install pygtc
 ```
 
+# Sneak Peek
+
+<img src="images/data/data.png" height="250"/>
+
+<img src="images/data/triangle.png" height="250"/>
